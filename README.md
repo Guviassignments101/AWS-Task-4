@@ -43,8 +43,10 @@ Attach volume to EC2
 <img width="1897" height="738" alt="image" src="https://github.com/user-attachments/assets/f572ccbd-49ae-44d0-991e-f61593d7b334" />
 <img width="1906" height="395" alt="image" src="https://github.com/user-attachments/assets/c2474f7c-f520-4dc1-b0db-83b758427830" />
 
-Step 12: Create Mount directory and attach  volume to directory 
+Step 12: Create Mount directory and attach  volume to directory and verify
 <img width="1892" height="531" alt="image" src="https://github.com/user-attachments/assets/d55c50b0-ce97-4ea3-b197-2897cec832d8" />
+Hence verified
+<img width="1917" height="217" alt="image" src="https://github.com/user-attachments/assets/4c2b96a0-d4e1-47f7-b677-6ea0de177e2b" />
 
 
 
